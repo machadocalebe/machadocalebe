@@ -3,7 +3,7 @@
 * 🔭 Sou Dev de Software
 * 🌱 Aprimorando em React
 * 🤔 Estudando Python e SQL
-* ⚡ Meu nome.. é Calebe Machado e eu sou o programador mais rapido vivo... Zooomm!!
+
 
 ## Software Developer
 
